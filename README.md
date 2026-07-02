@@ -1,6 +1,5 @@
 # CodeAlpha_Calculator
 Basic Calculator using HTML, CSS and JavaScript
-# CodeAlpha_Calculator
 
 Modern Calculator developed using HTML, CSS and JavaScript for the CodeAlpha Frontend Development Internship.
 
